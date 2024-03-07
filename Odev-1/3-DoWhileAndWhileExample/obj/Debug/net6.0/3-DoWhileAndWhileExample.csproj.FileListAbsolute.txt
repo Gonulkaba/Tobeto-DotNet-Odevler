@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Tobeto\Odev-1\3-DoWhileAndWhileExample\bin\Debug\net6.0\3-DoWhileAndWhileExample.exe
+C:\Users\pc\Desktop\Tobeto\Odev-1\3-DoWhileAndWhileExample\bin\Debug\net6.0\3-DoWhileAndWhileExample.deps.json
+C:\Users\pc\Desktop\Tobeto\Odev-1\3-DoWhileAndWhileExample\bin\Debug\net6.0\3-DoWhileAndWhileExample.runtimeconfig.json
+C:\Users\pc\Desktop\Tobeto\Odev-1\3-DoWhileAndWhileExample\bin\Debug\net6.0\3-DoWhileAndWhileExample.dll
+C:\Users\pc\Desktop\Tobeto\Odev-1\3-DoWhileAndWhileExample\bin\Debug\net6.0\3-DoWhileAndWhileExample.pdb
+C:\Users\pc\Desktop\Tobeto\Odev-1\3-DoWhileAndWhileExample\obj\Debug\net6.0\3-DoWhileAndWhileExample.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Tobeto\Odev-1\3-DoWhileAndWhileExample\obj\Debug\net6.0\3-DoWhileAndWhileExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Tobeto\Odev-1\3-DoWhileAndWhileExample\obj\Debug\net6.0\3-DoWhileAndWhileExample.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Tobeto\Odev-1\3-DoWhileAndWhileExample\obj\Debug\net6.0\3-DoWhileAndWhileExample.AssemblyInfo.cs
+C:\Users\pc\Desktop\Tobeto\Odev-1\3-DoWhileAndWhileExample\obj\Debug\net6.0\3-DoWhileAndWhileExample.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Tobeto\Odev-1\3-DoWhileAndWhileExample\obj\Debug\net6.0\3-DoWhileAndWhileExample.dll
+C:\Users\pc\Desktop\Tobeto\Odev-1\3-DoWhileAndWhileExample\obj\Debug\net6.0\refint\3-DoWhileAndWhileExample.dll
+C:\Users\pc\Desktop\Tobeto\Odev-1\3-DoWhileAndWhileExample\obj\Debug\net6.0\3-DoWhileAndWhileExample.pdb
+C:\Users\pc\Desktop\Tobeto\Odev-1\3-DoWhileAndWhileExample\obj\Debug\net6.0\3-DoWhileAndWhileExample.genruntimeconfig.cache
+C:\Users\pc\Desktop\Tobeto\Odev-1\3-DoWhileAndWhileExample\obj\Debug\net6.0\ref\3-DoWhileAndWhileExample.dll

@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Tobeto\Odev-1\2-TotalAmountCalculation\bin\Debug\net6.0\2-TotalAmountCalculation.exe
+C:\Users\pc\Desktop\Tobeto\Odev-1\2-TotalAmountCalculation\bin\Debug\net6.0\2-TotalAmountCalculation.deps.json
+C:\Users\pc\Desktop\Tobeto\Odev-1\2-TotalAmountCalculation\bin\Debug\net6.0\2-TotalAmountCalculation.runtimeconfig.json
+C:\Users\pc\Desktop\Tobeto\Odev-1\2-TotalAmountCalculation\bin\Debug\net6.0\2-TotalAmountCalculation.dll
+C:\Users\pc\Desktop\Tobeto\Odev-1\2-TotalAmountCalculation\bin\Debug\net6.0\2-TotalAmountCalculation.pdb
+C:\Users\pc\Desktop\Tobeto\Odev-1\2-TotalAmountCalculation\obj\Debug\net6.0\2-TotalAmountCalculation.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Tobeto\Odev-1\2-TotalAmountCalculation\obj\Debug\net6.0\2-TotalAmountCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Tobeto\Odev-1\2-TotalAmountCalculation\obj\Debug\net6.0\2-TotalAmountCalculation.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Tobeto\Odev-1\2-TotalAmountCalculation\obj\Debug\net6.0\2-TotalAmountCalculation.AssemblyInfo.cs
+C:\Users\pc\Desktop\Tobeto\Odev-1\2-TotalAmountCalculation\obj\Debug\net6.0\2-TotalAmountCalculation.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Tobeto\Odev-1\2-TotalAmountCalculation\obj\Debug\net6.0\2-TotalAmountCalculation.dll
+C:\Users\pc\Desktop\Tobeto\Odev-1\2-TotalAmountCalculation\obj\Debug\net6.0\refint\2-TotalAmountCalculation.dll
+C:\Users\pc\Desktop\Tobeto\Odev-1\2-TotalAmountCalculation\obj\Debug\net6.0\2-TotalAmountCalculation.pdb
+C:\Users\pc\Desktop\Tobeto\Odev-1\2-TotalAmountCalculation\obj\Debug\net6.0\2-TotalAmountCalculation.genruntimeconfig.cache
+C:\Users\pc\Desktop\Tobeto\Odev-1\2-TotalAmountCalculation\obj\Debug\net6.0\ref\2-TotalAmountCalculation.dll

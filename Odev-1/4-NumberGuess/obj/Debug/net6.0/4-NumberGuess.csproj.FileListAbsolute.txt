@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Tobeto\Odev-1\4-NumberGuess\bin\Debug\net6.0\4-NumberGuess.exe
+C:\Users\pc\Desktop\Tobeto\Odev-1\4-NumberGuess\bin\Debug\net6.0\4-NumberGuess.deps.json
+C:\Users\pc\Desktop\Tobeto\Odev-1\4-NumberGuess\bin\Debug\net6.0\4-NumberGuess.runtimeconfig.json
+C:\Users\pc\Desktop\Tobeto\Odev-1\4-NumberGuess\bin\Debug\net6.0\4-NumberGuess.dll
+C:\Users\pc\Desktop\Tobeto\Odev-1\4-NumberGuess\bin\Debug\net6.0\4-NumberGuess.pdb
+C:\Users\pc\Desktop\Tobeto\Odev-1\4-NumberGuess\obj\Debug\net6.0\4-NumberGuess.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Tobeto\Odev-1\4-NumberGuess\obj\Debug\net6.0\4-NumberGuess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Tobeto\Odev-1\4-NumberGuess\obj\Debug\net6.0\4-NumberGuess.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Tobeto\Odev-1\4-NumberGuess\obj\Debug\net6.0\4-NumberGuess.AssemblyInfo.cs
+C:\Users\pc\Desktop\Tobeto\Odev-1\4-NumberGuess\obj\Debug\net6.0\4-NumberGuess.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Tobeto\Odev-1\4-NumberGuess\obj\Debug\net6.0\4-NumberGuess.dll
+C:\Users\pc\Desktop\Tobeto\Odev-1\4-NumberGuess\obj\Debug\net6.0\refint\4-NumberGuess.dll
+C:\Users\pc\Desktop\Tobeto\Odev-1\4-NumberGuess\obj\Debug\net6.0\4-NumberGuess.pdb
+C:\Users\pc\Desktop\Tobeto\Odev-1\4-NumberGuess\obj\Debug\net6.0\4-NumberGuess.genruntimeconfig.cache
+C:\Users\pc\Desktop\Tobeto\Odev-1\4-NumberGuess\obj\Debug\net6.0\ref\4-NumberGuess.dll

@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Tobeto\Odev-1\1-OrderTracking\bin\Debug\net6.0\1-OrderTracking.exe
+C:\Users\pc\Desktop\Tobeto\Odev-1\1-OrderTracking\bin\Debug\net6.0\1-OrderTracking.deps.json
+C:\Users\pc\Desktop\Tobeto\Odev-1\1-OrderTracking\bin\Debug\net6.0\1-OrderTracking.runtimeconfig.json
+C:\Users\pc\Desktop\Tobeto\Odev-1\1-OrderTracking\bin\Debug\net6.0\1-OrderTracking.dll
+C:\Users\pc\Desktop\Tobeto\Odev-1\1-OrderTracking\bin\Debug\net6.0\1-OrderTracking.pdb
+C:\Users\pc\Desktop\Tobeto\Odev-1\1-OrderTracking\obj\Debug\net6.0\1-OrderTracking.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Tobeto\Odev-1\1-OrderTracking\obj\Debug\net6.0\1-OrderTracking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Tobeto\Odev-1\1-OrderTracking\obj\Debug\net6.0\1-OrderTracking.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Tobeto\Odev-1\1-OrderTracking\obj\Debug\net6.0\1-OrderTracking.AssemblyInfo.cs
+C:\Users\pc\Desktop\Tobeto\Odev-1\1-OrderTracking\obj\Debug\net6.0\1-OrderTracking.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Tobeto\Odev-1\1-OrderTracking\obj\Debug\net6.0\1-OrderTracking.dll
+C:\Users\pc\Desktop\Tobeto\Odev-1\1-OrderTracking\obj\Debug\net6.0\refint\1-OrderTracking.dll
+C:\Users\pc\Desktop\Tobeto\Odev-1\1-OrderTracking\obj\Debug\net6.0\1-OrderTracking.pdb
+C:\Users\pc\Desktop\Tobeto\Odev-1\1-OrderTracking\obj\Debug\net6.0\1-OrderTracking.genruntimeconfig.cache
+C:\Users\pc\Desktop\Tobeto\Odev-1\1-OrderTracking\obj\Debug\net6.0\ref\1-OrderTracking.dll

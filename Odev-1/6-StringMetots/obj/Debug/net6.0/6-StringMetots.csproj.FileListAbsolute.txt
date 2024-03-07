@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Tobeto\Odev-1\6-StringMetots\bin\Debug\net6.0\6-StringMetots.exe
+C:\Users\pc\Desktop\Tobeto\Odev-1\6-StringMetots\bin\Debug\net6.0\6-StringMetots.deps.json
+C:\Users\pc\Desktop\Tobeto\Odev-1\6-StringMetots\bin\Debug\net6.0\6-StringMetots.runtimeconfig.json
+C:\Users\pc\Desktop\Tobeto\Odev-1\6-StringMetots\bin\Debug\net6.0\6-StringMetots.dll
+C:\Users\pc\Desktop\Tobeto\Odev-1\6-StringMetots\bin\Debug\net6.0\6-StringMetots.pdb
+C:\Users\pc\Desktop\Tobeto\Odev-1\6-StringMetots\obj\Debug\net6.0\6-StringMetots.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Tobeto\Odev-1\6-StringMetots\obj\Debug\net6.0\6-StringMetots.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Tobeto\Odev-1\6-StringMetots\obj\Debug\net6.0\6-StringMetots.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Tobeto\Odev-1\6-StringMetots\obj\Debug\net6.0\6-StringMetots.AssemblyInfo.cs
+C:\Users\pc\Desktop\Tobeto\Odev-1\6-StringMetots\obj\Debug\net6.0\6-StringMetots.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Tobeto\Odev-1\6-StringMetots\obj\Debug\net6.0\6-StringMetots.dll
+C:\Users\pc\Desktop\Tobeto\Odev-1\6-StringMetots\obj\Debug\net6.0\refint\6-StringMetots.dll
+C:\Users\pc\Desktop\Tobeto\Odev-1\6-StringMetots\obj\Debug\net6.0\6-StringMetots.pdb
+C:\Users\pc\Desktop\Tobeto\Odev-1\6-StringMetots\obj\Debug\net6.0\6-StringMetots.genruntimeconfig.cache
+C:\Users\pc\Desktop\Tobeto\Odev-1\6-StringMetots\obj\Debug\net6.0\ref\6-StringMetots.dll

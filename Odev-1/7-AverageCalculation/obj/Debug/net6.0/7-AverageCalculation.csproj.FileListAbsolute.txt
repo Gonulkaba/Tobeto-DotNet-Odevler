@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Tobeto\Odev-1\7-AverageCalculation\bin\Debug\net6.0\7-AverageCalculation.exe
+C:\Users\pc\Desktop\Tobeto\Odev-1\7-AverageCalculation\bin\Debug\net6.0\7-AverageCalculation.deps.json
+C:\Users\pc\Desktop\Tobeto\Odev-1\7-AverageCalculation\bin\Debug\net6.0\7-AverageCalculation.runtimeconfig.json
+C:\Users\pc\Desktop\Tobeto\Odev-1\7-AverageCalculation\bin\Debug\net6.0\7-AverageCalculation.dll
+C:\Users\pc\Desktop\Tobeto\Odev-1\7-AverageCalculation\bin\Debug\net6.0\7-AverageCalculation.pdb
+C:\Users\pc\Desktop\Tobeto\Odev-1\7-AverageCalculation\obj\Debug\net6.0\7-AverageCalculation.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Tobeto\Odev-1\7-AverageCalculation\obj\Debug\net6.0\7-AverageCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Tobeto\Odev-1\7-AverageCalculation\obj\Debug\net6.0\7-AverageCalculation.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Tobeto\Odev-1\7-AverageCalculation\obj\Debug\net6.0\7-AverageCalculation.AssemblyInfo.cs
+C:\Users\pc\Desktop\Tobeto\Odev-1\7-AverageCalculation\obj\Debug\net6.0\7-AverageCalculation.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Tobeto\Odev-1\7-AverageCalculation\obj\Debug\net6.0\7-AverageCalculation.dll
+C:\Users\pc\Desktop\Tobeto\Odev-1\7-AverageCalculation\obj\Debug\net6.0\refint\7-AverageCalculation.dll
+C:\Users\pc\Desktop\Tobeto\Odev-1\7-AverageCalculation\obj\Debug\net6.0\7-AverageCalculation.pdb
+C:\Users\pc\Desktop\Tobeto\Odev-1\7-AverageCalculation\obj\Debug\net6.0\7-AverageCalculation.genruntimeconfig.cache
+C:\Users\pc\Desktop\Tobeto\Odev-1\7-AverageCalculation\obj\Debug\net6.0\ref\7-AverageCalculation.dll

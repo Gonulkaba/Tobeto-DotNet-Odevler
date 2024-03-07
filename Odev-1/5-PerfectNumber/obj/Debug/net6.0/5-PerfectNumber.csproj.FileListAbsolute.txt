@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Tobeto\Odev-1\5-PerfectNumber\bin\Debug\net6.0\5-PerfectNumber.exe
+C:\Users\pc\Desktop\Tobeto\Odev-1\5-PerfectNumber\bin\Debug\net6.0\5-PerfectNumber.deps.json
+C:\Users\pc\Desktop\Tobeto\Odev-1\5-PerfectNumber\bin\Debug\net6.0\5-PerfectNumber.runtimeconfig.json
+C:\Users\pc\Desktop\Tobeto\Odev-1\5-PerfectNumber\bin\Debug\net6.0\5-PerfectNumber.dll
+C:\Users\pc\Desktop\Tobeto\Odev-1\5-PerfectNumber\bin\Debug\net6.0\5-PerfectNumber.pdb
+C:\Users\pc\Desktop\Tobeto\Odev-1\5-PerfectNumber\obj\Debug\net6.0\5-PerfectNumber.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Tobeto\Odev-1\5-PerfectNumber\obj\Debug\net6.0\5-PerfectNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Tobeto\Odev-1\5-PerfectNumber\obj\Debug\net6.0\5-PerfectNumber.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Tobeto\Odev-1\5-PerfectNumber\obj\Debug\net6.0\5-PerfectNumber.AssemblyInfo.cs
+C:\Users\pc\Desktop\Tobeto\Odev-1\5-PerfectNumber\obj\Debug\net6.0\5-PerfectNumber.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Tobeto\Odev-1\5-PerfectNumber\obj\Debug\net6.0\5-PerfectNumber.dll
+C:\Users\pc\Desktop\Tobeto\Odev-1\5-PerfectNumber\obj\Debug\net6.0\refint\5-PerfectNumber.dll
+C:\Users\pc\Desktop\Tobeto\Odev-1\5-PerfectNumber\obj\Debug\net6.0\5-PerfectNumber.pdb
+C:\Users\pc\Desktop\Tobeto\Odev-1\5-PerfectNumber\obj\Debug\net6.0\5-PerfectNumber.genruntimeconfig.cache
+C:\Users\pc\Desktop\Tobeto\Odev-1\5-PerfectNumber\obj\Debug\net6.0\ref\5-PerfectNumber.dll
