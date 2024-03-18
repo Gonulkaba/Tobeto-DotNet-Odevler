@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\Inheritance-3\bin\Debug\net6.0\Inheritance-3.exe
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\Inheritance-3\bin\Debug\net6.0\Inheritance-3.deps.json
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\Inheritance-3\bin\Debug\net6.0\Inheritance-3.runtimeconfig.json
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\Inheritance-3\bin\Debug\net6.0\Inheritance-3.dll
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\Inheritance-3\bin\Debug\net6.0\Inheritance-3.pdb
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\Inheritance-3\obj\Debug\net6.0\Inheritance-3.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\Inheritance-3\obj\Debug\net6.0\Inheritance-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\Inheritance-3\obj\Debug\net6.0\Inheritance-3.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\Inheritance-3\obj\Debug\net6.0\Inheritance-3.AssemblyInfo.cs
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\Inheritance-3\obj\Debug\net6.0\Inheritance-3.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\Inheritance-3\obj\Debug\net6.0\Inheritance-3.dll
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\Inheritance-3\obj\Debug\net6.0\refint\Inheritance-3.dll
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\Inheritance-3\obj\Debug\net6.0\Inheritance-3.pdb
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\Inheritance-3\obj\Debug\net6.0\Inheritance-3.genruntimeconfig.cache
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\Inheritance-3\obj\Debug\net6.0\ref\Inheritance-3.dll

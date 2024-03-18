@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\Encapsulation\bin\Debug\net6.0\Encapsulation.exe
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\Encapsulation\bin\Debug\net6.0\Encapsulation.deps.json
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\Encapsulation\bin\Debug\net6.0\Encapsulation.runtimeconfig.json
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\Encapsulation\bin\Debug\net6.0\Encapsulation.dll
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\Encapsulation\bin\Debug\net6.0\Encapsulation.pdb
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\Encapsulation\obj\Debug\net6.0\Encapsulation.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\Encapsulation\obj\Debug\net6.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfo.cs
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\Encapsulation\obj\Debug\net6.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\Encapsulation\obj\Debug\net6.0\Encapsulation.dll
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\Encapsulation\obj\Debug\net6.0\refint\Encapsulation.dll
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\Encapsulation\obj\Debug\net6.0\Encapsulation.pdb
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\Encapsulation\obj\Debug\net6.0\Encapsulation.genruntimeconfig.cache
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\Encapsulation\obj\Debug\net6.0\ref\Encapsulation.dll

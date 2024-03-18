@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\GenericType\bin\Debug\net6.0\GenericType.exe
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\GenericType\bin\Debug\net6.0\GenericType.deps.json
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\GenericType\bin\Debug\net6.0\GenericType.runtimeconfig.json
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\GenericType\bin\Debug\net6.0\GenericType.dll
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\GenericType\bin\Debug\net6.0\GenericType.pdb
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\GenericType\obj\Debug\net6.0\GenericType.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\GenericType\obj\Debug\net6.0\GenericType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\GenericType\obj\Debug\net6.0\GenericType.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\GenericType\obj\Debug\net6.0\GenericType.AssemblyInfo.cs
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\GenericType\obj\Debug\net6.0\GenericType.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\GenericType\obj\Debug\net6.0\GenericType.dll
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\GenericType\obj\Debug\net6.0\refint\GenericType.dll
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\GenericType\obj\Debug\net6.0\GenericType.pdb
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\GenericType\obj\Debug\net6.0\GenericType.genruntimeconfig.cache
+C:\Users\pc\Desktop\Tobeto\Odev-6-OOP2\GenericType\obj\Debug\net6.0\ref\GenericType.dll
