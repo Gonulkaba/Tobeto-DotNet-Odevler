@@ -1,0 +1,16 @@
+C:\Users\pc\Desktop\Tobeto\Ders_8\Business\bin\Debug\net8.0\Business.deps.json
+C:\Users\pc\Desktop\Tobeto\Ders_8\Business\bin\Debug\net8.0\Business.dll
+C:\Users\pc\Desktop\Tobeto\Ders_8\Business\bin\Debug\net8.0\Business.pdb
+C:\Users\pc\Desktop\Tobeto\Ders_8\Business\bin\Debug\net8.0\Entities.dll
+C:\Users\pc\Desktop\Tobeto\Ders_8\Business\bin\Debug\net8.0\Entities.pdb
+C:\Users\pc\Desktop\Tobeto\Ders_8\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Tobeto\Ders_8\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Tobeto\Ders_8\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Tobeto\Ders_8\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\pc\Desktop\Tobeto\Ders_8\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Tobeto\Ders_8\Business\obj\Debug\net8.0\Business.sourcelink.json
+C:\Users\pc\Desktop\Tobeto\Ders_8\Business\obj\Debug\net8.0\Business.csproj.Up2Date
+C:\Users\pc\Desktop\Tobeto\Ders_8\Business\obj\Debug\net8.0\Business.dll
+C:\Users\pc\Desktop\Tobeto\Ders_8\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Users\pc\Desktop\Tobeto\Ders_8\Business\obj\Debug\net8.0\Business.pdb
+C:\Users\pc\Desktop\Tobeto\Ders_8\Business\obj\Debug\net8.0\ref\Business.dll
