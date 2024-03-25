@@ -9,41 +9,42 @@ namespace WebAPI.Controllers
     [ApiController]
     public class ProductsController : ControllerBase
     {
-        IProductService productService;
+        IProductService _productService;
 
         public ProductsController(IProductService productService)
         {
-            this.productService = productService;
+            _productService = productService;
         }
 
         [HttpGet]
         public List<Product> GetAll()
         {
-            return productService.GetAll();
+            return _productService.GetAll();
         }
 
         [HttpPost]
         public void Add([FromBody] Product product)
         {
-            productService.Add(product);
+            _productService.Add(product);
         }
 
         [HttpGet("id")]
         public Product GetById([FromQuery] int id)
         {
-            return productService.GetById(id);
+            return _productService.GetById(id);
         }
 
-        [HttpDelete]
+        [HttpDelete("{id}")]
         public void Delete(int id)
         {
-            productService.Delete(id);
+            var product = _productService.GetById(id);
+            _productService.Delete(product);
         }
 
         [HttpPut]
         public void Update(Product product)
         {
-            productService.Update(product);
+            _productService.Update(product);
         }
     }
 }

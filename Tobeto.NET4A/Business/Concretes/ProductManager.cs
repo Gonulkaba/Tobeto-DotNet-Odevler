@@ -1,4 +1,5 @@
 ﻿using Business.Abstracts;
+using DataAccess.Abstracts;
 using Entities;
 using System;
 using System.Collections.Generic;
@@ -10,46 +11,43 @@ namespace Business.Concretes
 {
     public class ProductManager : IProductService
     {
-        List<Product> _products;
+        IProductRepository _productRepository;
 
-        public ProductManager()
+        public ProductManager(IProductRepository productRepository)
         {
-            this._products = new List<Product>();
+            _productRepository = productRepository;
         }
 
         public void Add(Product product)
         {
-            _products.Add(product);
+            // ürün ismini kontrol et
+            // fiyatını kontrol et
+
+            if (product.UnitPrice < 0)
+                throw new Exception("Ürün fiyatı 0'dan küçük olamaz.");
+
+            _productRepository.Add(product);
         }
 
-        public void Delete(int id)
+        public void Delete(Product product)
         {
-            Product product = _products.FirstOrDefault(x => x.Id == id);
-            if (product != null)
-            {
-                _products.Remove(product);
-            }
+            _productRepository.Delete(product);
         }
 
         public List<Product> GetAll()
         {
-            return this._products;
+            // Cacheleme?
+            return _productRepository.GetAll();
         }
 
         public Product GetById(int id)
         {
-            return _products.FirstOrDefault(x => x.Id == id);
-
+            return _productRepository.GetById(id);
         }
 
-        public void Update(Product updatedProduct)
+        public void Update(Product product)
         {
-            Product product = _products.FirstOrDefault(x => x.Id == updatedProduct.Id);
-            if (product != null)
-            {
-                product.Name = updatedProduct.Name;
-                product.UnitPrice = updatedProduct.UnitPrice;
-            }
+            _productRepository.Update(product);
         }
     }
 }
