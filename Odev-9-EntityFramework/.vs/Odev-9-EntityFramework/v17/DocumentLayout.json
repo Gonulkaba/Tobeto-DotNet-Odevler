@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\Tobeto\\Odev-9-EntityFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE56EC6-9029-4D26-8F18-508F0CF6E6E9}|Entities\\Entities.csproj|c:\\users\\pc\\desktop\\tobeto\\odev-9-entityframework\\entities\\concretes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE56EC6-9029-4D26-8F18-508F0CF6E6E9}|Entities\\Entities.csproj|solutionrelative:entities\\concretes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51BBC16-B57F-4994-80D8-141F61177030}|ConsoleUI\\ConsoleUI.csproj|c:\\users\\pc\\desktop\\tobeto\\odev-9-entityframework\\consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51BBC16-B57F-4994-80D8-141F61177030}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Tobeto\\Odev-9-EntityFramework\\Entities\\Concretes\\Product.cs",
+              "RelativeDocumentMoniker": "Entities\\Concretes\\Product.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Tobeto\\Odev-9-EntityFramework\\Entities\\Concretes\\Product.cs",
+              "RelativeToolTip": "Entities\\Concretes\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T23:09:49.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Tobeto\\Odev-9-EntityFramework\\ConsoleUI\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleUI\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Tobeto\\Odev-9-EntityFramework\\ConsoleUI\\Program.cs",
+              "RelativeToolTip": "ConsoleUI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T23:06:00.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
