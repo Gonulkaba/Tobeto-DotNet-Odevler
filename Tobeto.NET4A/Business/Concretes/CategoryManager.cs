@@ -46,7 +46,6 @@ namespace Business.Concretes
             if (category != null)
             {
                 category.Name = updatedCategory.Name;
-                category.Description = updatedCategory.Description;
             }
         }
     }

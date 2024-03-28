@@ -14,3 +14,5 @@ C:\Users\pc\Desktop\Tobeto\Tobeto.NET4A\DataAccess\obj\Debug\net8.0\DataAccess.d
 C:\Users\pc\Desktop\Tobeto\Tobeto.NET4A\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
 C:\Users\pc\Desktop\Tobeto\Tobeto.NET4A\DataAccess\obj\Debug\net8.0\DataAccess.pdb
 C:\Users\pc\Desktop\Tobeto\Tobeto.NET4A\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+C:\Users\pc\Desktop\Tobeto\Tobeto.NET4A\DataAccess\bin\Debug\net8.0\DataAccess.runtimeconfig.json
+C:\Users\pc\Desktop\Tobeto\Tobeto.NET4A\DataAccess\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache
