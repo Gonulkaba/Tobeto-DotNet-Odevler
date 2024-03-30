@@ -1,4 +1,5 @@
 ﻿using Business.Abstracts;
+using Core.DataAccess;
 using DataAccess.Abstracts;
 using Entities;
 using System;
@@ -26,6 +27,11 @@ namespace Business.Concretes
             if (product.UnitPrice < 0)
                 throw new Exception("Ürün fiyatı 0'dan küçük olamaz.");
 
+            // Aynı isimde ikinci ürün eklenemesin.
+            Product? productWithSameName = _productRepository.Get(p => p.Name == product.Name);
+            if (productWithSameName is not null)
+                throw new Exception("Aynı isimde 2. ürün eklenemez");
+
             _productRepository.Add(product);
         }
 
@@ -36,13 +42,12 @@ namespace Business.Concretes
 
         public List<Product> GetAll()
         {
-            // Cacheleme?
-            return _productRepository.GetAll();
+            throw new NotImplementedException();
         }
 
         public Product GetById(int id)
         {
-            return _productRepository.GetById(id);
+            throw new NotImplementedException();
         }
 
         public void Update(Product product)

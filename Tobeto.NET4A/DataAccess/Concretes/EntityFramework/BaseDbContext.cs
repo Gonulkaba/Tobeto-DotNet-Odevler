@@ -19,7 +19,6 @@ namespace DataAccess.Concretes.EntityFramework
             optionsBuilder.UseSqlServer("Data Source=DESKTOP-8SGA7NI\\SQLEXPRESS;Initial Catalog=Tobeto4A2;Integrated Security=True; Trust Server Certificate=True");
             base.OnConfiguring(optionsBuilder);
 
-            //Data Source=DESKTOP-8SGA7NI\SQLEXPRESS;Initial Catalog=Tobeto4A;Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
