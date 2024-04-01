@@ -19,7 +19,7 @@ namespace Business.Concretes
             _productRepository = productRepository;
         }
 
-        public void Add(Product product)
+        public async void Add(Product product)
         {
             // ürün ismini kontrol et
             // fiyatını kontrol et
@@ -28,11 +28,11 @@ namespace Business.Concretes
                 throw new Exception("Ürün fiyatı 0'dan küçük olamaz.");
 
             // Aynı isimde ikinci ürün eklenemesin.
-            Product? productWithSameName = _productRepository.Get(p => p.Name == product.Name);
+            Product? productWithSameName =await _productRepository.GetAsync(p => p.Name == product.Name);
             if (productWithSameName is not null)
                 throw new Exception("Aynı isimde 2. ürün eklenemez");
 
-            _productRepository.Add(product);
+            await _productRepository.AddAsync(product);
         }
 
         public void Delete(Product product)
@@ -40,9 +40,9 @@ namespace Business.Concretes
             _productRepository.Delete(product);
         }
 
-        public List<Product> GetAll()
+        public async Task<List<Product>> GetAll()
         {
-            throw new NotImplementedException();
+            return await _productRepository.GetListAsync();
         }
 
         public Product GetById(int id)

@@ -23,10 +23,20 @@ namespace DataAccess.Concretes.InMemory
             _products.Add(product);
         }
 
+        public Task AddAsync(Product entity)
+        {
+            throw new NotImplementedException();
+        }
+
         public void Delete(Product product)
         {
             _products.Remove(product);
 
+        }
+
+        public Task DeleteAsync(Product entity)
+        {
+            throw new NotImplementedException();
         }
 
         public Product? Get(Expression<Func<Product, bool>> predicate, Expression<Func<Product, object>>? orderBy = null)
@@ -37,6 +47,11 @@ namespace DataAccess.Concretes.InMemory
         public List<Product> GetAll()
         {
             return this._products;
+        }
+
+        public Task<Product?> GetAsync(Expression<Func<Product, bool>> predicate, Expression<Func<Product, object>>? orderBy = null)
+        {
+            throw new NotImplementedException();
         }
 
         public Product GetById(int id)
@@ -51,9 +66,19 @@ namespace DataAccess.Concretes.InMemory
             throw new NotImplementedException();
         }
 
+        public Task<List<Product>> GetListAsync(Expression<Func<Product, bool>>? predicate = null, Expression<Func<Product, object>>? orderBy = null)
+        {
+            throw new NotImplementedException();
+        }
+
         public void Update(Product updatedProduct)
         {
             // InMemory olduğundan atla.
+        }
+
+        public Task UpdateAsync(Product entity)
+        {
+            throw new NotImplementedException();
         }
     }
 }
