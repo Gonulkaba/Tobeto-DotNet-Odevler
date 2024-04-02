@@ -1,5 +1,7 @@
 using Business.Abstracts;
 using Business.Concretes;
+using Core.CrossCuttingConcerns.Exceptions;
+using Core.CrossCuttingConcerns.Exceptions.Extensions;
 using DataAccess.Abstracts;
 using DataAccess.Concretes.EntityFramework;
 using Microsoft.AspNetCore.Authentication;
@@ -25,6 +27,8 @@ builder.Services.AddScoped<ICategoryService, CategoryManager>();
 builder.Services.AddScoped<IProductRepository, EfProductRepository>();
 builder.Services.AddDbContext<BaseDbContext>();
 
+//Middleware
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -39,5 +43,7 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
+
+app.ConfigureExceptionMiddlewareExtensions();
 
 app.Run();
