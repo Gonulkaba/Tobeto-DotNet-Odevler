@@ -3,44 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.NET4A\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A8E1E514-BB7B-4413-A22B-BD925AFA101E}|Core\\Core.csproj|c:\\users\\pc\\desktop\\tobeto\\tobeto.net4a\\core\\crosscuttingconcerns\\exceptions\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8E1E514-BB7B-4413-A22B-BD925AFA101E}|Core\\Core.csproj|solutionrelative:core\\crosscuttingconcerns\\exceptions\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8E1E514-BB7B-4413-A22B-BD925AFA101E}|Core\\Core.csproj|c:\\users\\pc\\desktop\\tobeto\\tobeto.net4a\\core\\crosscuttingconcerns\\exceptions\\httpproblemdetails\\problemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8E1E514-BB7B-4413-A22B-BD925AFA101E}|Core\\Core.csproj|solutionrelative:core\\crosscuttingconcerns\\exceptions\\httpproblemdetails\\problemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8E1E514-BB7B-4413-A22B-BD925AFA101E}|Core\\Core.csproj|c:\\users\\pc\\desktop\\tobeto\\tobeto.net4a\\core\\crosscuttingconcerns\\exceptions\\types\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8E1E514-BB7B-4413-A22B-BD925AFA101E}|Core\\Core.csproj|solutionrelative:core\\crosscuttingconcerns\\exceptions\\types\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8E1E514-BB7B-4413-A22B-BD925AFA101E}|Core\\Core.csproj|c:\\users\\pc\\desktop\\tobeto\\tobeto.net4a\\core\\crosscuttingconcerns\\exceptions\\types\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8E1E514-BB7B-4413-A22B-BD925AFA101E}|Core\\Core.csproj|solutionrelative:core\\crosscuttingconcerns\\exceptions\\types\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8E1E514-BB7B-4413-A22B-BD925AFA101E}|Core\\Core.csproj|c:\\users\\pc\\desktop\\tobeto\\tobeto.net4a\\core\\crosscuttingconcerns\\exceptions\\extensions\\exceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8E1E514-BB7B-4413-A22B-BD925AFA101E}|Core\\Core.csproj|solutionrelative:core\\crosscuttingconcerns\\exceptions\\extensions\\exceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{16DF3560-2D2E-457D-B611-027AEE93A651}|Business\\Business.csproj|c:\\users\\pc\\desktop\\tobeto\\tobeto.net4a\\business\\concretes\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16DF3560-2D2E-457D-B611-027AEE93A651}|Business\\Business.csproj|solutionrelative:business\\concretes\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE415150-4C11-4F43-94CE-FFA7D40D0148}|WebAPI\\WebAPI.csproj|c:\\users\\pc\\desktop\\tobeto\\tobeto.net4a\\webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE415150-4C11-4F43-94CE-FFA7D40D0148}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{847FF149-E399-49C6-8975-9B117AD36C8D}|DataAccess\\DataAccess.csproj|c:\\users\\pc\\desktop\\tobeto\\tobeto.net4a\\dataaccess\\dataaccessserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{847FF149-E399-49C6-8975-9B117AD36C8D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccessserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16DF3560-2D2E-457D-B611-027AEE93A651}|Business\\Business.csproj|c:\\users\\pc\\desktop\\tobeto\\tobeto.net4a\\business\\businessserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16DF3560-2D2E-457D-B611-027AEE93A651}|Business\\Business.csproj|solutionrelative:business\\businessserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE415150-4C11-4F43-94CE-FFA7D40D0148}|WebAPI\\WebAPI.csproj|c:\\users\\pc\\desktop\\tobeto\\tobeto.net4a\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE415150-4C11-4F43-94CE-FFA7D40D0148}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16DF3560-2D2E-457D-B611-027AEE93A651}|Business\\Business.csproj|c:\\users\\pc\\desktop\\tobeto\\tobeto.net4a\\business\\mappingprofiles\\productmappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16DF3560-2D2E-457D-B611-027AEE93A651}|Business\\Business.csproj|solutionrelative:business\\mappingprofiles\\productmappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16DF3560-2D2E-457D-B611-027AEE93A651}|Business\\Business.csproj|c:\\users\\pc\\desktop\\tobeto\\tobeto.net4a\\business\\dtos\\product\\requests\\addproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16DF3560-2D2E-457D-B611-027AEE93A651}|Business\\Business.csproj|solutionrelative:business\\dtos\\product\\requests\\addproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16DF3560-2D2E-457D-B611-027AEE93A651}|Business\\Business.csproj|c:\\users\\pc\\desktop\\tobeto\\tobeto.net4a\\business\\abstracts\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16DF3560-2D2E-457D-B611-027AEE93A651}|Business\\Business.csproj|solutionrelative:business\\abstracts\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8E1E514-BB7B-4413-A22B-BD925AFA101E}|Core\\Core.csproj|c:\\users\\pc\\desktop\\tobeto\\tobeto.net4a\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A8E1E514-BB7B-4413-A22B-BD925AFA101E}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{CE415150-4C11-4F43-94CE-FFA7D40D0148}|WebAPI\\WebAPI.csproj|c:\\users\\pc\\desktop\\tobeto\\tobeto.net4a\\webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE415150-4C11-4F43-94CE-FFA7D40D0148}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE415150-4C11-4F43-94CE-FFA7D40D0148}|WebAPI\\WebAPI.csproj|c:\\users\\pc\\desktop\\tobeto\\tobeto.net4a\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE415150-4C11-4F43-94CE-FFA7D40D0148}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16DF3560-2D2E-457D-B611-027AEE93A651}|Business\\Business.csproj|c:\\users\\pc\\desktop\\tobeto\\tobeto.net4a\\business\\dtos\\product\\responses\\listproductresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16DF3560-2D2E-457D-B611-027AEE93A651}|Business\\Business.csproj|solutionrelative:business\\dtos\\product\\responses\\listproductresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,132 +58,119 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BusinessException.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.NET4A\\Core\\CrossCuttingConcerns\\Exceptions\\Types\\BusinessException.cs",
-              "RelativeDocumentMoniker": "Core\\CrossCuttingConcerns\\Exceptions\\Types\\BusinessException.cs",
-              "ToolTip": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.NET4A\\Core\\CrossCuttingConcerns\\Exceptions\\Types\\BusinessException.cs",
-              "RelativeToolTip": "Core\\CrossCuttingConcerns\\Exceptions\\Types\\BusinessException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T15:57:36.008Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ValidationException.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.NET4A\\Core\\CrossCuttingConcerns\\Exceptions\\Types\\ValidationException.cs",
-              "RelativeDocumentMoniker": "Core\\CrossCuttingConcerns\\Exceptions\\Types\\ValidationException.cs",
-              "ToolTip": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.NET4A\\Core\\CrossCuttingConcerns\\Exceptions\\Types\\ValidationException.cs",
-              "RelativeToolTip": "Core\\CrossCuttingConcerns\\Exceptions\\Types\\ValidationException.cs",
+              "Title": "BusinessServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.NET4A\\Business\\BusinessServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Business\\BusinessServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.NET4A\\Business\\BusinessServiceRegistration.cs",
+              "RelativeToolTip": "Business\\BusinessServiceRegistration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T15:57:33.787Z",
+              "WhenOpened": "2024-04-04T20:35:59.098Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProblemDetails.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.NET4A\\Core\\CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\ProblemDetails.cs",
-              "RelativeDocumentMoniker": "Core\\CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\ProblemDetails.cs",
-              "ToolTip": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.NET4A\\Core\\CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\ProblemDetails.cs",
-              "RelativeToolTip": "Core\\CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\ProblemDetails.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T13:29:44.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ExceptionMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.NET4A\\Core\\CrossCuttingConcerns\\Exceptions\\ExceptionMiddleware.cs",
-              "RelativeDocumentMoniker": "Core\\CrossCuttingConcerns\\Exceptions\\ExceptionMiddleware.cs",
-              "ToolTip": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.NET4A\\Core\\CrossCuttingConcerns\\Exceptions\\ExceptionMiddleware.cs",
-              "RelativeToolTip": "Core\\CrossCuttingConcerns\\Exceptions\\ExceptionMiddleware.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T11:42:55.01Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.NET4A\\WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "WebAPI\\Program.cs",
               "ToolTip": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.NET4A\\WebAPI\\Program.cs",
               "RelativeToolTip": "WebAPI\\Program.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAAAC4AAAAtAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T12:57:22.67Z",
+              "WhenOpened": "2024-04-04T20:33:03.55Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.NET4A\\Business\\Abstracts\\IProductService.cs",
-              "RelativeDocumentMoniker": "Business\\Abstracts\\IProductService.cs",
-              "ToolTip": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.NET4A\\Business\\Abstracts\\IProductService.cs",
-              "RelativeToolTip": "Business\\Abstracts\\IProductService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T13:20:09.466Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "ProductManager.cs",
               "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.NET4A\\Business\\Concretes\\ProductManager.cs",
               "RelativeDocumentMoniker": "Business\\Concretes\\ProductManager.cs",
               "ToolTip": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.NET4A\\Business\\Concretes\\ProductManager.cs",
               "RelativeToolTip": "Business\\Concretes\\ProductManager.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAABYAAAAZAAAA",
+              "ViewState": "AQIAADoAAAAAAAAAAAAQwEoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T10:19:19.916Z",
+              "WhenOpened": "2024-04-03T11:34:00.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataAccessServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.NET4A\\DataAccess\\DataAccessServiceRegistration.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DataAccessServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.NET4A\\DataAccess\\DataAccessServiceRegistration.cs",
+              "RelativeToolTip": "DataAccess\\DataAccessServiceRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:36:27.754Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ExceptionMiddlewareExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.NET4A\\Core\\CrossCuttingConcerns\\Exceptions\\Extensions\\ExceptionMiddlewareExtensions.cs",
-              "RelativeDocumentMoniker": "Core\\CrossCuttingConcerns\\Exceptions\\Extensions\\ExceptionMiddlewareExtensions.cs",
-              "ToolTip": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.NET4A\\Core\\CrossCuttingConcerns\\Exceptions\\Extensions\\ExceptionMiddlewareExtensions.cs",
-              "RelativeToolTip": "Core\\CrossCuttingConcerns\\Exceptions\\Extensions\\ExceptionMiddlewareExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAALAAAA",
+              "Title": "ProductMappingProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.NET4A\\Business\\MappingProfiles\\ProductMappingProfiles.cs",
+              "RelativeDocumentMoniker": "Business\\MappingProfiles\\ProductMappingProfiles.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.NET4A\\Business\\MappingProfiles\\ProductMappingProfiles.cs",
+              "RelativeToolTip": "Business\\MappingProfiles\\ProductMappingProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T12:52:56.129Z",
+              "WhenOpened": "2024-04-03T11:34:20.277Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Core",
-              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.NET4A\\Core\\Core.csproj",
-              "RelativeDocumentMoniker": "Core\\Core.csproj",
-              "ToolTip": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.NET4A\\Core\\Core.csproj",
-              "RelativeToolTip": "Core\\Core.csproj",
+              "DocumentIndex": 5,
+              "Title": "AddProductRequest.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.NET4A\\Business\\Dtos\\Product\\Requests\\AddProductRequest.cs",
+              "RelativeDocumentMoniker": "Business\\Dtos\\Product\\Requests\\AddProductRequest.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.NET4A\\Business\\Dtos\\Product\\Requests\\AddProductRequest.cs",
+              "RelativeToolTip": "Business\\Dtos\\Product\\Requests\\AddProductRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-02T13:20:05.138Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T11:48:14.02Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.NET4A\\Business\\Abstracts\\IProductService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstracts\\IProductService.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.NET4A\\Business\\Abstracts\\IProductService.cs",
+              "RelativeToolTip": "Business\\Abstracts\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T19:48:36.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.NET4A\\WebAPI\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "WebAPI\\Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.NET4A\\WebAPI\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "WebAPI\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAABUAAAAyAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACAAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T13:20:49.332Z",
+              "WhenOpened": "2024-04-04T19:46:39.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ListProductResponse.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.NET4A\\Business\\Dtos\\Product\\Responses\\ListProductResponse.cs",
+              "RelativeDocumentMoniker": "Business\\Dtos\\Product\\Responses\\ListProductResponse.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.NET4A\\Business\\Dtos\\Product\\Responses\\ListProductResponse.cs",
+              "RelativeToolTip": "Business\\Dtos\\Product\\Responses\\ListProductResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T11:49:19.3Z",
               "EditorCaption": ""
             }
           ]

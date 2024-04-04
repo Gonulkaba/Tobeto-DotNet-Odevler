@@ -5,6 +5,9 @@ using Core.CrossCuttingConcerns.Exceptions.Extensions;
 using DataAccess.Abstracts;
 using DataAccess.Concretes.EntityFramework;
 using Microsoft.AspNetCore.Authentication;
+using System.Reflection;
+using Business;
+using DataAccess;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -22,10 +25,9 @@ builder.Services.AddSwaggerGen();
 // Scoped => (API isteði) Ýstek baþýna 1 instance oluþturur.
 
 // Transient => Her adýmda (her talepte) yeni 1 instance.
-builder.Services.AddScoped<IProductService, ProductManager>();
-builder.Services.AddScoped<ICategoryService, CategoryManager>();
-builder.Services.AddScoped<IProductRepository, EfProductRepository>();
-builder.Services.AddDbContext<BaseDbContext>();
+
+builder.Services.AddBusinessServices();
+builder.Services.AddDataAccessServices();
 
 //Middleware
 
@@ -38,12 +40,12 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+app.ConfigureExceptionMiddlewareExtensions();
+
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
 app.MapControllers();
-
-app.ConfigureExceptionMiddlewareExtensions();
 
 app.Run();

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "4OPtyuW59XPAxfkFL7WcDQYYyKn71yf5GgCkV9kfs0xJrDQ7dd0PFN0WFZhQ2jUHThSncvv5UbD50LxwYMftzQ==",
+  "dgSpecHash": "a9pC99MEo54FaapJ2smBS4n3++Ui3RTZxvu5oc8zuiDEgLvDdzk+2flGhhTj1uU18+bm7GXeXHTNnFzKWNnOCA==",
   "success": true,
   "projectFilePath": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.NET4A\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
