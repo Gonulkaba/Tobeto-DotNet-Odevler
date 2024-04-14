@@ -12,7 +12,7 @@ namespace Core.CrossCuttingConcerns.Exceptions
 {
     public class ExceptionMiddleware
     {
-		private readonly RequestDelegate _next;
+        private readonly RequestDelegate _next;
 
         public ExceptionMiddleware(RequestDelegate next)
         {
@@ -21,16 +21,15 @@ namespace Core.CrossCuttingConcerns.Exceptions
 
         public async Task Invoke(HttpContext context)
         {
-			try
-			{
-                await _next(context);
-			}
+            try
+            {
+                await _next(context); // herhangi bir işlem
+            }
             catch (Exception exception)
             {
                 context.Response.ContentType = "application/json";
                 context.Response.StatusCode = StatusCodes.Status400BadRequest;
 
-                //Ödev: Her class kendi hata yönetimini kendi içerisinde yapsın.
                 if (exception is BusinessException)
                 {
                     ProblemDetails problemDetails = new ProblemDetails();
@@ -39,10 +38,16 @@ namespace Core.CrossCuttingConcerns.Exceptions
                     problemDetails.Type = "BusinessException";
                     await context.Response.WriteAsync(JsonSerializer.Serialize(problemDetails));
                 }
+                else if (exception is ValidationException)
+                {
+
+                }
                 else
                 {
                     context.Response.StatusCode = StatusCodes.Status500InternalServerError;
+                    await context.Response.WriteAsync("Bilinmedik Hata");
                 }
+
             }
         }
     }

@@ -1,4 +1,5 @@
 ﻿using Business.Abstracts;
+using DataAccess.Abstracts;
 using Entities;
 using System;
 using System.Collections.Generic;
@@ -10,43 +11,17 @@ namespace Business.Concretes
 {
     public class CategoryManager : ICategoryService
     {
-        List<Category> _categories;
+        private readonly ICategoryRepository _categoryRepository;
 
-        public CategoryManager()
+        public CategoryManager(ICategoryRepository categoryRepository)
         {
-            _categories = new List<Category>();
-        }
-        public void Add(Category category)
-        {
-            _categories.Add(category);
+            _categoryRepository = categoryRepository;
         }
 
-        public void Delete(int id)
+        public async Task<Category?> GetByIdAsync(int id)
         {
-            Category category = _categories.FirstOrDefault(x => x.Id == id);
-            if (category != null)
-            {
-                _categories.Remove(category);
-            }
-        }
-
-        public List<Category> GetAll()
-        {
-            return this._categories;
-        }
-
-        public Category GetById(int id)
-        {
-            return _categories.FirstOrDefault(x => x.Id == id);
-        }
-
-        public void Update(Category updatedCategory)
-        {
-            Category category = _categories.FirstOrDefault(x => x.Id == updatedCategory.Id);
-            if (category != null)
-            {
-                category.Name = updatedCategory.Name;
-            }
+            Category? category = await _categoryRepository.GetAsync(i => i.Id == id);
+            return category;
         }
     }
 }
