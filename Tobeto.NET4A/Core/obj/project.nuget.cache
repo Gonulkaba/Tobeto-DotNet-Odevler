@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "AkWaOAJtoOoMy4+b9FRG+GJJL7rWlIJgfirPZlGH/pU7MVvywwJwtguhlDTN/nKOU2g+4F3z/K2TL5MuEazj+g==",
+  "dgSpecHash": "AbGpsMgNIz9+3PwiLH9vR5BnAqqQ+j5yJPQx+13GsuCEm0+cCgHdy3kWIIBKZMIZ3Fcyi4Gj+OCG8Hw6Ziz2wQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.NET4A\\Core\\Core.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.aspnetcore.http\\2.2.2\\microsoft.aspnetcore.http.2.2.2.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
