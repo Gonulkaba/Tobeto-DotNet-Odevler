@@ -14,6 +14,7 @@ namespace DataAccess.Concretes.EntityFramework
         public DbSet<Category> Categories { get; set; }
 
         public DbSet<Product> Products { get; set; }
+        public DbSet<User> Users { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer("Data Source=DESKTOP-8SGA7NI\\SQLEXPRESS;Initial Catalog=Tobeto4A2;Integrated Security=True; Trust Server Certificate=True");

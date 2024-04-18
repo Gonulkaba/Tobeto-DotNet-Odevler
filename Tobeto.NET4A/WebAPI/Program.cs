@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Authentication;
 using System.Reflection;
 using Business;
 using DataAccess;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -26,10 +27,24 @@ builder.Services.AddSwaggerGen();
 
 // Transient => Her adýmda (her talepte) yeni 1 instance.
 
+
 builder.Services.AddBusinessServices();
 builder.Services.AddDataAccessServices();
 
 //Middleware
+
+//Jwt
+builder.Services
+    .AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+    .AddJwtBearer(options =>
+    {
+        // JWT Konfigürasyonlarý..
+        // TODO: Gerekli alanlarý appsettings.json'dan okuyarak burada token optionslarý belirle.
+        options.TokenValidationParameters = new Microsoft.IdentityModel.Tokens.TokenValidationParameters()
+        {
+            // IssuerSigningKey = ""
+        };
+    });
 
 var app = builder.Build();
 
@@ -43,6 +58,8 @@ if (app.Environment.IsDevelopment())
 app.ConfigureExceptionMiddlewareExtensions();
 
 app.UseHttpsRedirection();
+
+app.UseAuthentication();
 
 app.UseAuthorization();
 
