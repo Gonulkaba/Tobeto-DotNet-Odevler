@@ -18,7 +18,7 @@ namespace WebAPI.Controllers
     {
         private readonly IMediator _mediator;
 
-        public ProductsController(IMediator mediator)
+        public ProductsController(IMediator mediator, IHttpContextAccessor httpContextAccessor)
         {
             _mediator = mediator;
         }
@@ -36,6 +36,7 @@ namespace WebAPI.Controllers
             var result = await _mediator.Send(query);
             return Ok(result);
         }
+
         [HttpGet("{id}")]
         public async Task<IActionResult> GetById([FromRoute] int id)
         {

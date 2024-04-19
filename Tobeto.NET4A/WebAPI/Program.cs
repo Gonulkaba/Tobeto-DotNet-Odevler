@@ -1,14 +1,15 @@
-using Business.Abstracts;
-using Business.Concretes;
-using Core.CrossCuttingConcerns.Exceptions;
 using Core.CrossCuttingConcerns.Exceptions.Extensions;
-using DataAccess.Abstracts;
-using DataAccess.Concretes.EntityFramework;
-using Microsoft.AspNetCore.Authentication;
-using System.Reflection;
 using Business;
 using DataAccess;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
+using Microsoft.Extensions.Configuration;
+using Microsoft.AspNetCore.Identity;
+using TokenOptions = Core.Utilities.JWT.TokenOptions;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
+using Core.Utilities.Encryption;
+using Core;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -27,9 +28,12 @@ builder.Services.AddSwaggerGen();
 
 // Transient => Her adýmda (her talepte) yeni 1 instance.
 
+TokenOptions? tokenOptions = builder.Configuration.GetSection("TokenOptions").Get<TokenOptions>();
 
+builder.Services.AddHttpContextAccessor();
 builder.Services.AddBusinessServices();
 builder.Services.AddDataAccessServices();
+builder.Services.AddCoreServices(tokenOptions);
 
 //Middleware
 
@@ -40,9 +44,16 @@ builder.Services
     {
         // JWT Konfigürasyonlarý..
         // TODO: Gerekli alanlarý appsettings.json'dan okuyarak burada token optionslarý belirle.
+
         options.TokenValidationParameters = new Microsoft.IdentityModel.Tokens.TokenValidationParameters()
         {
-            // IssuerSigningKey = ""
+            ValidateIssuer = true,
+            ValidateAudience = true,
+            ValidateLifetime = true,
+            ValidateIssuerSigningKey = true,
+            ValidIssuer = tokenOptions.Issuer,
+            ValidAudience = tokenOptions.Audience,
+            IssuerSigningKey = SecurityKeyHelper.CreateSecurityKey(tokenOptions.SecurityKey)
         };
     });
 
