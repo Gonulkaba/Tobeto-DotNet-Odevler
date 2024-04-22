@@ -1,4 +1,5 @@
-﻿using Entities;
+﻿using Core.Entities;
+using Entities;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -12,9 +13,10 @@ namespace DataAccess.Concretes.EntityFramework
     public class BaseDbContext : DbContext
     {
         public DbSet<Category> Categories { get; set; }
-
         public DbSet<Product> Products { get; set; }
         public DbSet<User> Users { get; set; }
+        public DbSet<OperationClaim> OperationClaims { get; set; }
+        public DbSet<UserOperationClaim> UserOperationClaims { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer("Data Source=DESKTOP-8SGA7NI\\SQLEXPRESS;Initial Catalog=Tobeto4A2;Integrated Security=True; Trust Server Certificate=True");
@@ -25,8 +27,8 @@ namespace DataAccess.Concretes.EntityFramework
         {
             modelBuilder.Entity<Product>().ToTable("Products");
             modelBuilder.Entity<Product>().HasOne(i => i.Category);
-            modelBuilder.Entity<Product>().Property(i => i.Name).HasColumnName("Name")
-                .HasMaxLength(50);
+            modelBuilder.Entity<Product>().Property(i => i.Name).HasColumnName("Name").HasMaxLength(50);
+            modelBuilder.Entity<User>().ToTable("Users");
 
             // Seed Data
             Category category = new Category(1, "Giyim");
