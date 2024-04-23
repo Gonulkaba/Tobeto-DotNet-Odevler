@@ -1,11 +1,5 @@
-﻿using Core.Entities;
-using Entities;
+﻿using Entities;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DataAccess.Concretes.EntityFramework
 {
@@ -29,6 +23,7 @@ namespace DataAccess.Concretes.EntityFramework
             modelBuilder.Entity<Product>().HasOne(i => i.Category);
             modelBuilder.Entity<Product>().Property(i => i.Name).HasColumnName("Name").HasMaxLength(50);
             modelBuilder.Entity<User>().ToTable("Users");
+            //modelBuilder.Entity<UserOperationClaim>()
 
             // Seed Data
             Category category = new Category(1, "Giyim");

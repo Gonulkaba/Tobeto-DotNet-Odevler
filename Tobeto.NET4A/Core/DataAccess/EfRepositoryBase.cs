@@ -1,15 +1,13 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
+using Microsoft.EntityFrameworkCore.Query;
 using System.Linq.Expressions;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Core.DataAccess
 {
-    // Constraints  => Kısıt
-    public class EfRepositoryBase<TEntity, TContext> : IRepository<TEntity>, IAsyncRepository<TEntity> where TContext: DbContext where TEntity : Entity
+    // Constraints => Kısıt
+    public class EfRepositoryBase<TEntity, TContext> : IRepository<TEntity>, IAsyncRepository<TEntity>
+        where TContext : DbContext
+        where TEntity : Entity
     {
         private readonly TContext Context;
 
@@ -35,47 +33,49 @@ namespace Core.DataAccess
             Context.SaveChanges();
         }
 
-        //Ödev
-        //OrderBy yapısını yap. Kullanıcı eğer bir sıralama gönderdiyse ona göre sıralasın
-        //OrderBy,  Get ve GetList de opsiyonel olsun
-        public List<TEntity> GetList(Expression<Func<TEntity, bool>>? predicate = null, Expression<Func<TEntity, object>>? orderBy = null)
+        public List<TEntity> GetList(Expression<Func<TEntity, bool>>? predicate = null,
+                                     Func<IQueryable<TEntity>, IIncludableQueryable<TEntity, object>>? include = null)
         {
             IQueryable<TEntity> data = Context.Set<TEntity>();
-            if (predicate != null)
-                data= data.Where(predicate);
 
-            if (orderBy != null)
-                data = data.OrderBy(orderBy); 
+            if (predicate != null)
+                data = data.Where(predicate);
+            if (include != null)
+                data = include(data);
 
             return data.ToList();
         }
 
-        public TEntity? Get(Expression<Func<TEntity, bool>> predicate, Expression<Func<TEntity, object>>? orderBy = null)
+        public TEntity? Get(Expression<Func<TEntity, bool>> predicate,
+                           Func<IQueryable<TEntity>, IIncludableQueryable<TEntity, object>>? include = null)
         {
             IQueryable<TEntity> data = Context.Set<TEntity>();
-            if (orderBy != null)
-                data = data.OrderBy(orderBy);
+
+            if (include != null)
+                data = include(data);
 
             return data.FirstOrDefault(predicate);
         }
 
-        public async Task<TEntity?> GetAsync(Expression<Func<TEntity, bool>> predicate, Expression<Func<TEntity, object>>? orderBy = null)
+        public async Task<TEntity?> GetAsync(Expression<Func<TEntity, bool>> predicate,
+                                     Func<IQueryable<TEntity>, IIncludableQueryable<TEntity, object>>? include = null)
         {
             IQueryable<TEntity> data = Context.Set<TEntity>();
-            if (orderBy != null)
-                data = data.OrderBy(orderBy);
+
+            if (include != null)
+                data = include(data);
 
             return await data.FirstOrDefaultAsync(predicate);
         }
 
-        public async Task<List<TEntity>> GetListAsync(Expression<Func<TEntity, bool>>? predicate, Expression<Func<TEntity, object>>? orderBy = null)
+        public async Task<List<TEntity>> GetListAsync(Expression<Func<TEntity, bool>>? predicate = null, Func<IQueryable<TEntity>, IIncludableQueryable<TEntity, object>>? include = null)
         {
             IQueryable<TEntity> data = Context.Set<TEntity>();
+
             if (predicate != null)
                 data = data.Where(predicate);
-
-            if (orderBy != null)
-                data = data.OrderBy(orderBy);
+            if (include != null)
+                data = include(data);
 
             return await data.ToListAsync();
         }

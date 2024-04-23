@@ -1,5 +1,6 @@
 ﻿using DataAccess.Abstracts;
 using Entities;
+using Microsoft.EntityFrameworkCore.Query;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -44,12 +45,22 @@ namespace DataAccess.Concretes.InMemory
             throw new NotImplementedException();
         }
 
+        public Product? Get(Expression<Func<Product, bool>> predicate, Func<IQueryable<Product>, IIncludableQueryable<Product, object>>? include = null)
+        {
+            throw new NotImplementedException();
+        }
+
         public List<Product> GetAll()
         {
             return this._products;
         }
 
         public Task<Product?> GetAsync(Expression<Func<Product, bool>> predicate, Expression<Func<Product, object>>? orderBy = null)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<Product?> GetAsync(Expression<Func<Product, bool>> predicate, Func<IQueryable<Product>, IIncludableQueryable<Product, object>>? include = null)
         {
             throw new NotImplementedException();
         }
@@ -66,7 +77,17 @@ namespace DataAccess.Concretes.InMemory
             throw new NotImplementedException();
         }
 
+        public List<Product> GetList(Expression<Func<Product, bool>>? predicate = null, Func<IQueryable<Product>, IIncludableQueryable<Product, object>>? include = null)
+        {
+            throw new NotImplementedException();
+        }
+
         public Task<List<Product>> GetListAsync(Expression<Func<Product, bool>>? predicate = null, Expression<Func<Product, object>>? orderBy = null)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<List<Product>> GetListAsync(Expression<Func<Product, bool>>? predicate = null, Func<IQueryable<Product>, IIncludableQueryable<Product, object>>? include = null)
         {
             throw new NotImplementedException();
         }
