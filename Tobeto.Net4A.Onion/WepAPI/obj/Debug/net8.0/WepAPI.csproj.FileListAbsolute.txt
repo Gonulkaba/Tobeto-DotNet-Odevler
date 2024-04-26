@@ -145,3 +145,6 @@ C:\Users\pc\Desktop\Tobeto\Tobeto.Net4A.Onion\WepAPI\obj\Debug\net8.0\refint\Wep
 C:\Users\pc\Desktop\Tobeto\Tobeto.Net4A.Onion\WepAPI\obj\Debug\net8.0\WepAPI.pdb
 C:\Users\pc\Desktop\Tobeto\Tobeto.Net4A.Onion\WepAPI\obj\Debug\net8.0\WepAPI.genruntimeconfig.cache
 C:\Users\pc\Desktop\Tobeto\Tobeto.Net4A.Onion\WepAPI\obj\Debug\net8.0\ref\WepAPI.dll
+C:\Users\pc\Desktop\Tobeto\Tobeto.Net4A.Onion\WepAPI\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\pc\Desktop\Tobeto\Tobeto.Net4A.Onion\WepAPI\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\pc\Desktop\Tobeto\Tobeto.Net4A.Onion\WepAPI\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll

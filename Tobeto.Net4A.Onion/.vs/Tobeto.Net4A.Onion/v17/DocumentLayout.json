@@ -3,12 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.Net4A.Onion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.Net4A.Onion\\Persistence\\Migrations\\20240424172634_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Persistence\\Migrations\\20240424172634_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A187CC09-2546-4ECD-8B2F-921970AA7047}|WepAPI\\WepAPI.csproj|c:\\users\\pc\\desktop\\tobeto\\tobeto.net4a.onion\\wepapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A187CC09-2546-4ECD-8B2F-921970AA7047}|WepAPI\\WepAPI.csproj|solutionrelative:wepapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C99464-564C-4706-B09E-747A245AFE73}|Core\\Core.csproj|c:\\users\\pc\\desktop\\tobeto\\tobeto.net4a.onion\\core\\coreserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C99464-564C-4706-B09E-747A245AFE73}|Core\\Core.csproj|solutionrelative:core\\coreserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C99464-564C-4706-B09E-747A245AFE73}|Core\\Core.csproj|c:\\users\\pc\\desktop\\tobeto\\tobeto.net4a.onion\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{90C99464-564C-4706-B09E-747A245AFE73}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BF1841-8D87-4620-8872-BB9C5DF6DB9F}|Application\\Application.csproj|c:\\users\\pc\\desktop\\tobeto\\tobeto.net4a.onion\\application\\features\\brands\\commands\\create\\createbrandcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BF1841-8D87-4620-8872-BB9C5DF6DB9F}|Application\\Application.csproj|solutionrelative:application\\features\\brands\\commands\\create\\createbrandcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BF1841-8D87-4620-8872-BB9C5DF6DB9F}|Application\\Application.csproj|c:\\users\\pc\\desktop\\tobeto\\tobeto.net4a.onion\\application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BF1841-8D87-4620-8872-BB9C5DF6DB9F}|Application\\Application.csproj|solutionrelative:application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BF1841-8D87-4620-8872-BB9C5DF6DB9F}|Application\\Application.csproj|c:\\users\\pc\\desktop\\tobeto\\tobeto.net4a.onion\\application\\features\\brands\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BF1841-8D87-4620-8872-BB9C5DF6DB9F}|Application\\Application.csproj|solutionrelative:application\\features\\brands\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BF1841-8D87-4620-8872-BB9C5DF6DB9F}|Application\\Application.csproj|c:\\users\\pc\\desktop\\tobeto\\tobeto.net4a.onion\\application\\features\\brands\\commands\\create\\createbrandcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BF1841-8D87-4620-8872-BB9C5DF6DB9F}|Application\\Application.csproj|solutionrelative:application\\features\\brands\\commands\\create\\createbrandcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BF1841-8D87-4620-8872-BB9C5DF6DB9F}|Application\\Application.csproj|c:\\users\\pc\\desktop\\tobeto\\tobeto.net4a.onion\\application\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BF1841-8D87-4620-8872-BB9C5DF6DB9F}|Application\\Application.csproj|solutionrelative:application\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BF1841-8D87-4620-8872-BB9C5DF6DB9F}|Application\\Application.csproj|c:\\users\\pc\\desktop\\tobeto\\tobeto.net4a.onion\\application\\services\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BF1841-8D87-4620-8872-BB9C5DF6DB9F}|Application\\Application.csproj|solutionrelative:application\\services\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BF1841-8D87-4620-8872-BB9C5DF6DB9F}|Application\\Application.csproj|c:\\users\\pc\\desktop\\tobeto\\tobeto.net4a.onion\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A9BF1841-8D87-4620-8872-BB9C5DF6DB9F}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1595C1B1-964E-466A-BE76-F72E77E8B6DC}|Persistence\\Persistence.csproj|c:\\users\\pc\\desktop\\tobeto\\tobeto.net4a.onion\\persistence\\migrations\\20240424172634_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1595C1B1-964E-466A-BE76-F72E77E8B6DC}|Persistence\\Persistence.csproj|solutionrelative:persistence\\migrations\\20240424172634_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A187CC09-2546-4ECD-8B2F-921970AA7047}|WepAPI\\WepAPI.csproj|c:\\users\\pc\\desktop\\tobeto\\tobeto.net4a.onion\\wepapi\\wepapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -22,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 336,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +70,137 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoreServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.Net4A.Onion\\Core\\CoreServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Core\\CoreServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.Net4A.Onion\\Core\\CoreServiceRegistration.cs",
+              "RelativeToolTip": "Core\\CoreServiceRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T19:30:16.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Core",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.Net4A.Onion\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "Core\\Core.csproj",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.Net4A.Onion\\Core\\Core.csproj",
+              "RelativeToolTip": "Core\\Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-26T19:26:46.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateBrandCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.Net4A.Onion\\Application\\Features\\Brands\\Commands\\Create\\CreateBrandCommandValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Brands\\Commands\\Create\\CreateBrandCommandValidator.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.Net4A.Onion\\Application\\Features\\Brands\\Commands\\Create\\CreateBrandCommandValidator.cs",
+              "RelativeToolTip": "Application\\Features\\Brands\\Commands\\Create\\CreateBrandCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T19:25:44.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.Net4A.Onion\\Application\\ApplicationServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Application\\ApplicationServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.Net4A.Onion\\Application\\ApplicationServiceRegistration.cs",
+              "RelativeToolTip": "Application\\ApplicationServiceRegistration.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T19:24:35.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.Net4A.Onion\\WepAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WepAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.Net4A.Onion\\WepAPI\\Program.cs",
+              "RelativeToolTip": "WepAPI\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwB8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:24:11.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.Net4A.Onion\\Application\\Features\\Brands\\Profiles\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Brands\\Profiles\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.Net4A.Onion\\Application\\Features\\Brands\\Profiles\\MappingProfile.cs",
+              "RelativeToolTip": "Application\\Features\\Brands\\Profiles\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T19:22:17.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateBrandCommand.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.Net4A.Onion\\Application\\Features\\Brands\\Commands\\Create\\CreateBrandCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Brands\\Commands\\Create\\CreateBrandCommand.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.Net4A.Onion\\Application\\Features\\Brands\\Commands\\Create\\CreateBrandCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Brands\\Commands\\Create\\CreateBrandCommand.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwCMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T19:21:17.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.Net4A.Onion\\Application\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.Net4A.Onion\\Application\\Services\\IAuthService.cs",
+              "RelativeToolTip": "Application\\Services\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T19:19:47.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthManager.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.Net4A.Onion\\Application\\Services\\AuthManager.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\AuthManager.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.Net4A.Onion\\Application\\Services\\AuthManager.cs",
+              "RelativeToolTip": "Application\\Services\\AuthManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T19:19:10.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Application",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.Net4A.Onion\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.Net4A.Onion\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-26T19:18:34.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "20240424172634_Init.cs",
               "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.Net4A.Onion\\Persistence\\Migrations\\20240424172634_Init.cs",
               "RelativeDocumentMoniker": "Persistence\\Migrations\\20240424172634_Init.cs",
@@ -47,8 +213,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WepAPI",
+              "DocumentIndex": 11,
+              "Title": "WepAPI.csproj",
               "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.Net4A.Onion\\WepAPI\\WepAPI.csproj",
               "RelativeDocumentMoniker": "WepAPI\\WepAPI.csproj",
               "ToolTip": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.Net4A.Onion\\WepAPI\\WepAPI.csproj",
@@ -56,19 +222,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-04-24T17:25:35.244Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.Net4A.Onion\\WepAPI\\Program.cs",
-              "RelativeDocumentMoniker": "WepAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\pc\\Desktop\\Tobeto\\Tobeto.Net4A.Onion\\WepAPI\\Program.cs",
-              "RelativeToolTip": "WepAPI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T17:24:11.168Z",
               "EditorCaption": ""
             }
           ]
